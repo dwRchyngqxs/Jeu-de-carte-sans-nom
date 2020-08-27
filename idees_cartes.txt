@@ -1,0 +1,55 @@
+--- Le jeu du pouvoir ---
+Un jeu où on doit se battre pour obtenir le pouvoir en gagnant le débat publique ou par d'autres méthodes plus ou moins sales
+Dans une distopie quelconque, plusieurs groupes d'intérêts luttent pour le pouvoir... Chaque groupe a des valeurs qu'elles défendent et des méthodes plus ou moins légales pour les imposer.
+
+Au moins 2 joueurs.
+
+- Système de pioche :
+Au début de la partie les joueurs piochent X cartes
+À la fin de leur tour les joueurs montrent leur main aux adversaires, résolvent les effets et mettent au recyclage les cartes de leur main concernées;
+Ensuite ils piochent autant de cartes qu'il leur manque pour arriver à X
+Quand la pioche est vide le recyclage est vérifié par les adversaires puis mélangé avant de constituer la nouvelle pioche
+Au début du tour les cartes posées du joueur actif vont au recyclage ?
+Un sort ne peut être joué durant un tour adverse que s'il est posé ?
+
+- Stats : à décider
+démagogie / dogmatisme / rationalisme / charisme / violence / ???
+Appui du peule, capital et violence correspondent aux points de vie en quelques sortes
+Ils varient de 0 à X
+
+- Mécaniques :
+Épuisement vs recylage des cartes
+Effet si en main à la fin du tour
+Non recyclable en fin de tour (garder/épuiser)
+Chercher des cartes depuis le deck
+Dépendre de la taille du deck
+Ajout de cartes malus à l'adevrsaire
+Dépendre de l'appui du peuple, de la monnaie et de la violence, et pouvoir les modifier
+
+- Système soutien-instigateur-figure-groupe :
+Soutien = peon lambda
+Instigateur = tirer les commandes dans l'ombre
+Figure = Personnalités publiques
+Groupe = Ensemble de soutien
+L'instigateur reste X tours sur le terrain
+Le rapport de force est soutien < instigateur < figure < groupe < instigateur
+Groupe consomme soutien, figure ne se recycle pas
+
+- Les attaques :
+Une créature peut lancer une attaque
+L'instigateur cible un personnage et a x2 contre les groupes
+Les attaques des autres n'ont pas de cible, l'adversaire peut choisir un personnage pour l'encaisser ou pas de personnage
+Les soutiens ne s'épuisent pas quand ils perdent lors d'une attaque, contrairement aux autres
+Les attaques se font sur une stat annoncée par l'attaquant
+Les figures se jouent différemment selon le type de deck
+Le joueur perdant durant une attaque voit sa stat correspondante diminuer, et le vainqueur sa stat augmenter
+
+- La géopolitique :
+Modifie les règles du jeu
+
+- La victoire :
+Après X tours
+Quand l'appui du peuple tombe à 0 -> défaite
+Quand l'appui du peuple monte à X -> victoire
+De même pour le capital.
+Quand la violence monte à X -> victoire
