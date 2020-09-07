@@ -1,0 +1,4 @@
+Au début de la partie les joueurs piochent X cartes
+À la fin de leur tour les joueurs montrent leur main aux adversaires, résolvent les effets et mettent au recyclage les cartes de leur main concernées;
+Ensuite ils piochent autant de cartes qu'il leur manque pour arriver à X
+Quand la pioche est vide le recyclage est vérifié par les adversaires puis mélangé avant de constituer la nouvelle pioche

@@ -1,14 +1,3 @@
---- Le jeu du pouvoir ---
-Un jeu où on doit se battre pour obtenir le pouvoir en gagnant le débat publique ou par d'autres méthodes plus ou moins sales
-Dans une distopie quelconque, plusieurs groupes d'intérêts luttent pour le pouvoir... Chaque groupe a des valeurs qu'elles défendent et des méthodes plus ou moins légales pour les imposer.
-
-Au moins 2 joueurs.
-
-- Système de pioche :
-Au début de la partie les joueurs piochent X cartes
-À la fin de leur tour les joueurs montrent leur main aux adversaires, résolvent les effets et mettent au recyclage les cartes de leur main concernées;
-Ensuite ils piochent autant de cartes qu'il leur manque pour arriver à X
-Quand la pioche est vide le recyclage est vérifié par les adversaires puis mélangé avant de constituer la nouvelle pioche
 Au début du tour les cartes posées du joueur actif vont au recyclage ?
 Un sort ne peut être joué durant un tour adverse que s'il est posé ?
 
